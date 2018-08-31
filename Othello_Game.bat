@@ -1,0 +1,1 @@
+java -jar Othello_Game.jar
